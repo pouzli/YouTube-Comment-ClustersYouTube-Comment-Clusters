@@ -1,0 +1,14 @@
+google-api-python-client>=2.118
+pandas>=2.0
+tqdm
+langdetect
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+matplotlib
+plotly
+joblib
+nltk
+transformers
+torch
